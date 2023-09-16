@@ -10,8 +10,9 @@ This repo exists to take pre-trained AI CV models and apply them to some of my o
 
 How to use it: 
 
-    - put a file in the <kdb>input</kdb>> and change the file variable in the code
-    - put a file in the <kdb>output</kdb>> and change the variable in the code
+    - put a file in the <kdb>input/</kdb>> and change the file variable in the code
+    - put a file in the <kdb>output/</kdb>> and change the variable in the code
+    - run the code
 
 
 
